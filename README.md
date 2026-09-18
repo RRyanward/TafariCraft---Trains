@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="tafaricraft-trains-banner.png" alt="TafariCraft - Trains banner" width="900">
+
+</div>
+
+<div align="center">
+
 # 🚂 TafariCraft - Trains
 
 ### Bringing the spirit of classic Traincraft into modern Minecraft.
