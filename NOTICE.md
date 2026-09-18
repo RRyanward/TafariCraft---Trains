@@ -4,6 +4,14 @@ TafariCraft - Trains is an **unofficial derivative and modernization of the orig
 
 It is not an official Traincraft release and is not presented as being endorsed by the original Traincraft authors or maintainers.
 
+## Distribution Status
+
+The legacy Traincraft custom license included in this repository contains restrictions on modified distributions and derivative JARs. In particular, it states that modified versions of Traincraft may not be distributed and that derivative JARs made from Traincraft source may not be distributed without the applicable permission.
+
+Because TafariCraft - Trains is derived from legacy Traincraft code and assets, **public binary distribution should not occur unless the necessary permission has been obtained from the appropriate Traincraft rights holder(s)**.
+
+This notice does not grant permission beyond the original Traincraft license.
+
 ## Modifications
 
 This project contains substantial changes from the legacy Traincraft codebase, including:
